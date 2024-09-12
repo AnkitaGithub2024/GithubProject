@@ -24,10 +24,10 @@ https://github.com/AnkitaGithub2024/GithubProject.git
 - And also we can compile and run by using any of the code editor.
 
 ## Packages:
-- Base:
+-Base:
 This package includes the details of launchinf the browser,loading properties file.
 
-- Config:
+-Config:
 This package includes all the details of web browsers like Chrome browser,Edge,Firefox and also the details about url.
 
 -Resources:
