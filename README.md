@@ -30,6 +30,10 @@ This package includes the details of launchinf the browser,loading properties fi
 - Config:
 This package includes all the details of web browsers like Chrome browser,Edge,Firefox and also the details about url.
 
+-Resources:
+This Package includes subpackages which contains methods and variables for each page of the application.
 
+-Utilities:
+This Package contain code for different utility like Screenshot to store evidencies and Extent report for generating informative report.
 
 
