@@ -1,6 +1,5 @@
 ## Project Description:
-- This Automation Framework is used to automate the web application using Selenium webdriver,java,TestNG and Maven.
-- Before automate the browser we should ensure that we have met all the following requirement properly installed.
+- This Automation Framework is used to automate the web application using Selenium webdriver,java,TestNG and Maven as build management.
 
 ## Prerequistes: 
 - Java JDK version(17)
